@@ -25,6 +25,6 @@ I have basic skills in **C, C++, Python, Java**,**js**,**react** and **DSA with 
 
 ## 🤝 Let’s Connect
 - ✉️ Email: **imssr1005@gmail.com**
--   linkdin:**https://www.linkedin.com/in/suresh-rajpoot-0356aa35a/**
+-   linkedin:**https://www.linkedin.com/in/suresh-rajpoot-0356aa35a/**
 
 
