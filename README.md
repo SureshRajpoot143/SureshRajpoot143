@@ -11,11 +11,11 @@
 ║                  SYSTEM IDENTIFICATION                           ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  USER     : Suresh Rajpoot (@SureshRajpoot143)                  ║
-║  ROLE     : CSE Undergraduate · Year 3                          ║
+║  ROLE     : Btech-CSE student                           ║
 ║  LOCATION : India 🇮🇳                                           ║
 ║  STATUS   : [ ACTIVE ] — Learning & Building                    ║
-║  FOCUS    : DSA with C++ + Full-Stack Development               ║
-║  THREAT   : Competitive programmer in training ⚠️               ║
+║  FOCUS    : Ai, Full-Stack Development,software development               ║
+║  THREAT   : Competitive programmer in training               ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -44,25 +44,16 @@ class HackerProfile:
     
     WEB_STACK  = ["HTML5", "CSS3", "JavaScript", "React"]
     
-    TOOLS      = ["Git", "VS Code", "GitHub", "SQL"]
+    TOOLS      = ["Git", "VS Code", "GitHub", "SQL" ,"google colab","" ]
     
-    DSA        = ["Arrays", "Linked Lists", "Trees", "Graphs",
-                  "Sorting", "Dynamic Programming", "Recursion"]
-    
+
     CURRENTLY  = ["Advanced DSA with C++",
                   "Full-Stack Projects",
                   "React Ecosystem"]
     
     MOTTO      = "{ code: always, quit: never }"
 
-    def status(self):
-        return "[ONLINE] — open to collabs & opportunities"
-
-if __name__ == "__main__":
-    dev = HackerProfile()
-    print(dev.status())   # [ONLINE] — open to collabs & opportunities
-```
-
+ 
 ---
 
 ## `> ls skills/`
@@ -107,20 +98,6 @@ if __name__ == "__main__":
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SureshRajpoot143&bg_color=000000&color=00ff41&line=00cc33&point=00ff41&area=true&area_color=003300&hide_border=true)](https://github.com/SureshRajpoot143)
 
 </div>
-
----
-
-## `> cat /proc/missions`
-
-```bash
-$ grep -i "current" missions.txt
-
-[MISSION 01] ── Crack Advanced DSA with C++             [IN PROGRESS ▶]
-[MISSION 02] ── Build a full-stack web project          [IN PROGRESS ▶]
-[MISSION 03] ── Master React & modern JS ecosystem      [IN PROGRESS ▶]
-[MISSION 04] ── Contribute to open source               [QUEUED      ⏳]
-[MISSION 05] ── Land first internship / opportunity     [QUEUED      ⏳]
-```
 
 ---
 
