@@ -1,138 +1,152 @@
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003300&height=180&text=%3E_%20SURESH_RAJPOOT&fontSize=42&fontColor=00ff41&fontAlign=50&fontAlignY=50&desc=Initializing...%20Access%20Granted%20%E2%9C%93&descColor=00cc33&descAlignY=70)
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=%5BSYS%5D+Booting+developer+profile...;%5BOK%5D++CSE+Student+%7C+Year+3+%2F+4;%5BOK%5D++Languages+loaded%3A+C+%7C+C%2B%2B+%7C+Python+%7C+Java+%7C+JS;%5BOK%5D++DSA+module+active...;%5BOK%5D++Web+stack+online%3A+HTML+%7C+CSS+%7C+React;%5BRUN%5D+Always+learning%2C+never+stopping+_)](https://git.io/typing-svg)
- 
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:6a0dad,100:ff6ec7&height=220&text=⚔️%20SURESH%20RAJPOOT&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=The%20Code%20Warrior%20Awakens&descColor=ffdd57&descSize=20&descAlignY=60)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=+NEW+PLAYER+HAS+ENTERED+THE+GAME...;LOADING+CHARACTER%3A+Suresh+Rajpoot...;CLASS%3A+Full-Stack+Warrior+%2B+DSA+Mage;QUEST%3A+Master+the+Algorithms...;LEVEL+UP+IN+PROGRESS...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92%E2%96%92)](https://git.io/typing-svg)
+
 </div>
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                  SYSTEM IDENTIFICATION                           ║
-╠══════════════════════════════════════════════════════════════════╣
-║  USER     : Suresh Rajpoot (@SureshRajpoot143)                  ║
-║  ROLE     : CSE Undergraduate · Year 3                          ║
-║  LOCATION : India 🇮🇳                                           ║
-║  STATUS   : [ ACTIVE ] — Learning & Building                    ║
-║  FOCUS    : DSA with C++ + Full-Stack Development               ║
-║  THREAT   : Competitive programmer in training ⚠️               ║
-╚══════════════════════════════════════════════════════════════════╝
-```
- 
+
 ---
- 
+
 <div align="center">
+
+## 📜 CHARACTER SHEET
+
 ```
-██████╗ ███████╗██╗   ██╗
-██╔══██╗██╔════╝██║   ██║
-██║  ██║█████╗  ██║   ██║
-██║  ██║██╔══╝  ╚██╗ ██╔╝
-██████╔╝███████╗ ╚████╔╝ 
-╚═════╝ ╚══════╝  ╚═══╝  — STACK
+┌─────────────────────────────────────────────────────────────┐
+│                   ★ HERO PROFILE ★                          │
+├─────────────────────────────────────────────────────────────┤
+│  NAME    :  Suresh Rajpoot                                  │
+│  CLASS   :  Code Warrior / DSA Mage                        │
+│  RANK    :  3rd Year CSE Undergrad                         │
+│  GUILD   :  Open Source & Problem Solvers                  │
+│  ORIGIN  :  India 🇮🇳                                      │
+│  EXP     :  ████████████░░░░░░░░  Leveling up...          │
+│  STATUS  :  ⚔️  ACTIVE — Seeking quests & collabs         │
+└─────────────────────────────────────────────────────────────┘
 ```
- 
+
 </div>
-```python
-#!/usr/bin/env python3
-# dev_profile.py — Suresh Rajpoot
- 
-class HackerProfile:
- 
-    LANGUAGES = ["C", "C++", "Python", "Java", "JavaScript"]
-    
-    WEB_STACK  = ["HTML5", "CSS3", "JavaScript", "React"]
-    
-    TOOLS      = ["Git", "VS Code", "GitHub", "SQL"]
-    
-    DSA        = ["Arrays", "Linked Lists", "Trees", "Graphs",
-                  "Sorting", "Dynamic Programming", "Recursion"]
-    
-    CURRENTLY  = ["Advanced DSA with C++",
-                  "Full-Stack Projects",
-                  "React Ecosystem"]
-    
-    MOTTO      = "{ code: always, quit: never }"
- 
-    def status(self):
-        return "[ONLINE] — open to collabs & opportunities"
- 
-if __name__ == "__main__":
-    dev = HackerProfile()
-    print(dev.status())   # [ONLINE] — open to collabs & opportunities
+
+---
+
+## ⚔️ SKILLS & ABILITIES
+
+<div align="center">
+
+### 🗡️ Combat Languages
+![C](https://img.shields.io/badge/C-Journeyman-blue?style=for-the-badge&logo=c&logoColor=white&labelColor=1a0533)
+![C++](https://img.shields.io/badge/C++-Warrior-blue?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a0533)
+![Python](https://img.shields.io/badge/Python-Mage-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=1a0533)
+![Java](https://img.shields.io/badge/Java-Apprentice-orange?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a0533)
+![JavaScript](https://img.shields.io/badge/JavaScript-Rogue-yellow?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a0533)
+
+### 🏰 Web Realm Spells
+![HTML](https://img.shields.io/badge/HTML5-Architect-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a0533)
+![CSS](https://img.shields.io/badge/CSS3-Stylemancer-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a0533)
+![React](https://img.shields.io/badge/React-Summoner-cyan?style=for-the-badge&logo=react&logoColor=white&labelColor=1a0533)
+
+### 🛡️ Utility Belt
+![Git](https://img.shields.io/badge/Git-Version%20Keeper-orange?style=for-the-badge&logo=git&logoColor=white&labelColor=1a0533)
+![VS Code](https://img.shields.io/badge/VS%20Code-Sacred%20Forge-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1a0533)
+![SQL](https://img.shields.io/badge/SQL-Data%20Oracle-teal?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a0533)
+
+</div>
+
+---
+
+## 📊 BATTLE STATS
+
 ```
- 
----
- 
-## `> ls skills/`
- 
-<div align="center">
-| MODULE | LANGUAGE | PROFICIENCY | STATUS |
-|--------|----------|-------------|--------|
-| `lang/cpp` | C / C++ | `████████░░` 80% | 🟢 ACTIVE |
-| `lang/dsa` | DSA with C++ | `████████░░` 80% | 🟢 ACTIVE |
-| `lang/py` | Python | `███████░░░` 70% | 🟢 ACTIVE |
-| `web/react` | React + JS | `██████░░░░` 60% | 🔄 LEARNING |
-| `lang/java` | Java | `█████░░░░░` 55% | 🟡 BUILDING |
-| `db/sql` | SQL Basics | `████░░░░░░` 45% | 🟡 BUILDING |
- 
-</div>
----
- 
-## `> cat github_stats.log`
- 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SureshRajpoot143&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00cc33&ring_color=00ff41" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SureshRajpoot143&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00cc33" height="175"/>
-</div>
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SureshRajpoot143&theme=matrix&hide_border=true&background=000000&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=00cc33&dates=006600" />
-</div>
----
- 
-## `> ./activity --graph`
- 
-<div align="center">
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SureshRajpoot143&bg_color=000000&color=00ff41&line=00cc33&point=00ff41&area=true&area_color=003300&hide_border=true)](https://github.com/SureshRajpoot143)
- 
-</div>
----
- 
-## `> cat /proc/missions`
- 
-```bash
-$ grep -i "current" missions.txt
- 
-[MISSION 01] ── Crack Advanced DSA with C++             [IN PROGRESS ▶]
-[MISSION 02] ── Build a full-stack web project          [IN PROGRESS ▶]
-[MISSION 03] ── Master React & modern JS ecosystem      [IN PROGRESS ▶]
-[MISSION 04] ── Contribute to open source               [QUEUED      ⏳]
-[MISSION 05] ── Land first internship / opportunity     [QUEUED      ⏳]
+⚔️  C / C++ & DSA     LVL 8   ██████████████████░░  82 / 100  🔥
+🔮  Python            LVL 7   ████████████████░░░░  70 / 100  ✨
+🌐  React / JS        LVL 6   ████████████░░░░░░░░  60 / 100  ⚡
+☕  Java              LVL 5   ██████████░░░░░░░░░░  55 / 100  🛡️
+🗄️  SQL               LVL 4   ████████░░░░░░░░░░░░  45 / 100  📜
 ```
- 
+
 ---
- 
-## `> ping connect --all`
- 
+
+## 🏆 ACHIEVEMENTS UNLOCKED
+
 <div align="center">
-[![Email](https://img.shields.io/badge/GMAIL-imssr1005%40gmail.com-00ff41?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=000000&color=003300)](mailto:imssr1005@gmail.com)
- 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-suresh--rajpoot-00ff41?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=000000&color=003300)](https://www.linkedin.com/in/suresh-rajpoot-0356aa35a/)
- 
-[![X](https://img.shields.io/badge/X%20(TWITTER)-@its__ssr__143-00ff41?style=for-the-badge&logo=x&logoColor=00ff41&labelColor=000000&color=003300)](https://x.com/its_ssr_143)
- 
-[![GitHub](https://img.shields.io/badge/GITHUB-SureshRajpoot143-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000&color=003300)](https://github.com/SureshRajpoot143)
- 
+
+| BADGE | ACHIEVEMENT | STATUS |
+|:-----:|-------------|:------:|
+| 🎖️ | **First Commit** — Entered the developer realm | ✅ Unlocked |
+| ⚔️ | **DSA Initiate** — Solved first 50 problems | ✅ Unlocked |
+| 🌐 | **Web Weaver** — Built first web project | ✅ Unlocked |
+| 🔥 | **Streak Master** — 7-day coding streak | ✅ Unlocked |
+| 🏰 | **Full-Stack Knight** — Complete full-stack app | 🔄 In Progress |
+| 💎 | **Algorithm Sage** — 200+ DSA problems solved | ⏳ Locked |
+| 🌟 | **Open Source Hero** — First PR merged | ⏳ Locked |
+| 👑 | **Internship Conqueror** — Land first role | ⏳ Locked |
+
 </div>
+
 ---
- 
+
+## 📈 POWER LEVEL STATS
+
 <div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=SureshRajpoot143&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
- 
+
+<img src="https://github-readme-stats.vercel.app/api?username=SureshRajpoot143&show_icons=true&theme=radical&hide_border=true&bg_color=1a0533&title_color=FFD700&icon_color=ff6ec7&text_color=ffffff" height="175"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SureshRajpoot143&layout=compact&theme=radical&hide_border=true&bg_color=1a0533&title_color=FFD700&text_color=ffffff" height="175"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SureshRajpoot143&theme=radical&hide_border=true&background=1a0533&ring=FFD700&fire=ff6ec7&currStreakLabel=FFD700&sideLabels=ff6ec7&dates=aaaaaa" />
+
+</div>
+
+---
+
+## 🗺️ ACTIVE QUESTS
+
 ```
-> exit
-[ SYS ] Session terminated.
-[ LOG ] "It's not a bug — it's an undocumented feature." 
-[ END ] Connection closed. ██████████ 100%
+🗺️  MAIN STORY
+    ├── [⚔️  ACTIVE  ] Defeat the Boss: Advanced DSA with C++
+    ├── [⚔️  ACTIVE  ] Build the Kingdom: Full-Stack Web App
+    └── [🔄  ONGOING ] Master the React Grimoire
+
+⚡  SIDE QUESTS
+    ├── [⏳  PENDING ] Join an Open Source Guild
+    ├── [⏳  PENDING ] Achieve 100-day Coding Streak
+    └── [⏳  PENDING ] Claim First Internship Trophy 🏆
+
+🌟  DAILY GRIND
+    ├── [ ✅ ] Solve at least 1 DSA problem
+    ├── [ ✅ ] Push at least 1 commit
+    └── [ ✅ ] Learn something new
 ```
- 
-![footer](https://capsule-render.vercel.app/api?type=rect&color=0:003300,100:000000&height=60&section=footer&text=%5B+EOF+%5D&fontSize=18&fontColor=00ff41&fontAlign=50&fontAlignY=50)
- 
+
+---
+
+## 🌐 SEND A RAVEN (CONNECT)
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/📧%20EMAIL-imssr1005@gmail.com-FFD700?style=for-the-badge&labelColor=1a0533)](mailto:imssr1005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/🛡️%20LINKEDIN-suresh--rajpoot-ff6ec7?style=for-the-badge&labelColor=1a0533)](https://www.linkedin.com/in/suresh-rajpoot-0356aa35a/)
+[![X](https://img.shields.io/badge/🐦%20X%20(TWITTER)-@its__ssr__143-ffffff?style=for-the-badge&labelColor=1a0533)](https://x.com/its_ssr_143)
+[![GitHub](https://img.shields.io/badge/⚔️%20GITHUB-SureshRajpoot143-6a0dad?style=for-the-badge&labelColor=1a0533)](https://github.com/SureshRajpoot143)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=SureshRajpoot143&color=6a0dad&style=flat-square&label=ADVENTURERS+VISITED)
+
+```
+⚔️  "A warrior doesn't give up what he loves.
+      He finds the love in what he does." — Zoro 🗡️
+```
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,50:6a0dad,100:1a0533&height=120&section=footer)
+
 </div>
