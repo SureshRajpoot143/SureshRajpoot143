@@ -9,9 +9,10 @@
 ║                  SYSTEM IDENTIFICATION                           ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  USER     : Suresh Rajpoot (@SureshRajpoot143)                  ║
-║  ROLE     : Btech-CSE student ·                         ║
+║  ROLE     : CSE Undergraduate · Year 3                          ║
 ║  LOCATION : India 🇮🇳                                           ║
-║  STATUS   : [ ACTIVE ] — Learning & Building                            ║
+║  STATUS   : [ ACTIVE ] — Learning & Building                    ║
+║  FOCUS    : DSA with C++ + Full-Stack Development               ║
 ║  THREAT   : Competitive programmer in training ⚠️               ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
